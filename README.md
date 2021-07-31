@@ -21,3 +21,4 @@
 </div>
   
   ##
+ ![Snake animation](https://github.com/piabelo/piabelo/blob/output/github-contribution-grid-snake.svg)
